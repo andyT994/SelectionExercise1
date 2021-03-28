@@ -1,0 +1,15 @@
+/Users/andywindy/Selection/obj/Debug/net5.0/Exercise1Gender.csprojAssemblyReference.cache
+/Users/andywindy/Selection/obj/Debug/net5.0/Exercise1Gender.GeneratedMSBuildEditorConfig.editorconfig
+/Users/andywindy/Selection/obj/Debug/net5.0/Exercise1Gender.AssemblyInfoInputs.cache
+/Users/andywindy/Selection/obj/Debug/net5.0/Exercise1Gender.AssemblyInfo.cs
+/Users/andywindy/Selection/obj/Debug/net5.0/Exercise1Gender.csproj.CoreCompileInputs.cache
+/Users/andywindy/Selection/bin/Debug/net5.0/Exercise1Gender.deps.json
+/Users/andywindy/Selection/bin/Debug/net5.0/Exercise1Gender.runtimeconfig.json
+/Users/andywindy/Selection/bin/Debug/net5.0/Exercise1Gender.runtimeconfig.dev.json
+/Users/andywindy/Selection/bin/Debug/net5.0/Exercise1Gender.dll
+/Users/andywindy/Selection/bin/Debug/net5.0/ref/Exercise1Gender.dll
+/Users/andywindy/Selection/bin/Debug/net5.0/Exercise1Gender.pdb
+/Users/andywindy/Selection/obj/Debug/net5.0/Exercise1Gender.dll
+/Users/andywindy/Selection/obj/Debug/net5.0/ref/Exercise1Gender.dll
+/Users/andywindy/Selection/obj/Debug/net5.0/Exercise1Gender.pdb
+/Users/andywindy/Selection/obj/Debug/net5.0/Exercise1Gender.genruntimeconfig.cache
